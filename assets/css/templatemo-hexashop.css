@@ -708,15 +708,15 @@ banner
 }
 
 .main-banner .right-content .right-first-image .thumb .inner-content h4 {
-  color: #fff;
-  font-size: 24px;
+  color: #000;
+  font-size: 30px;
   font-weight: 700;
   margin-bottom: 15px;
 }
 
 .main-banner .right-content .right-first-image .thumb .inner-content span {
-  font-size: 9px;
-  color: #fff;
+  font-size: 16px;
+  color: #000;
   font-style: italic;
 }
 
@@ -924,53 +924,53 @@ Men
 
 /*
 ---------------------------------------------
-Women
+乐高
 ---------------------------------------------
 */
 
-#women {
+#乐高 {
   padding-top: 90px;
   padding-bottom: 90px;
   border-bottom: 3px dotted #eee;
 }
 
-#women .section-heading {
+#乐高 .section-heading {
   margin-bottom: 60px;
 }
 
-#women .item .down-content {
+#乐高 .item .down-content {
   padding-top: 30px;
   position: relative;
   z-index: 3;
   background-color: #fff;
 }
 
-#women .item .down-content h4 {
+#乐高 .item .down-content h4 {
   font-size: 22px;
   color: #2a2a2a;
   font-weight: 700;
   margin-bottom: 8px;
 }
 
-#women .item .down-content span {
+#乐高 .item .down-content span {
   font-size: 18px;
   color: #a1a1a1;
   font-weight: 500;
   display: block;
 }
 
-#women .item .down-content ul.stars {
+#乐高 .item .down-content ul.stars {
   position: absolute;
   right: 0;
   top: 30px;
 }
 
-#women .item .down-content ul.stars li {
+#乐高 .item .down-content ul.stars li {
   display: inline;
   font-size: 13px;
 }
 
-#women .item .thumb .hover-content {
+#乐高 .item .thumb .hover-content {
   position: absolute;
   z-index: 2;
   text-align: center;
@@ -981,22 +981,22 @@ Women
   transition: all .5s;
 }
 
-#women .item .thumb:hover .hover-content {
+#乐高 .item .thumb:hover .hover-content {
   bottom: 30px;
   opacity: 1;
   visibility: visible;
 }
 
-#women .item .thumb {
+#乐高 .item .thumb {
   position: relative;
 }
 
-#women .item .thumb .hover-content ul li {
+#乐高 .item .thumb .hover-content ul li {
   display: inline;
   margin: 0px 10px;
 }
 
-#women .item .thumb .hover-content ul li a {
+#乐高 .item .thumb .hover-content ul li a {
   width: 50px;
   height: 50px;
   text-align: center;
@@ -1007,7 +1007,7 @@ Women
 }
 
 
-#women .owl-nav {
+#乐高 .owl-nav {
   text-align: center;
   position: absolute;
   width: 100%;
@@ -1015,22 +1015,22 @@ Women
   transform: translateY(-25px);
 }
 
-#women .owl-dots {
+#乐高 .owl-dots {
   display: none;
 }
     
-#women .owl-nav .owl-prev{
+#乐高 .owl-nav .owl-prev{
   position: absolute;
   left: -80px;
   outline: none;
 }
 
-#women .owl-nav .owl-prev span,
-#women .owl-nav .owl-next span {
+#乐高 .owl-nav .owl-prev span,
+#乐高 .owl-nav .owl-next span {
   opacity: 0;
 }
 
-#women .owl-nav .owl-prev:before {
+#乐高 .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
   color: #2a2a2a;
@@ -1044,31 +1044,31 @@ Women
   border :1px solid #2a2a2a;
 }
 
-#women .owl-nav .owl-prev {
+#乐高 .owl-nav .owl-prev {
   opacity: 0.75;
   transition: all .5s;
 }
 
-#women .owl-nav .owl-prev:hover {
+#乐高 .owl-nav .owl-prev:hover {
   opacity: 1;
 }
 
-#women .owl-nav .owl-next {
+#乐高 .owl-nav .owl-next {
   opacity: 0.75;
   transition: all .5s;
 }
 
-#women .owl-nav .owl-next:hover {
+#乐高 .owl-nav .owl-next:hover {
   opacity: 1;
 }
 
-#women .owl-nav .owl-next{
+#乐高 .owl-nav .owl-next{
   outline: none;
   position: absolute;
   right: -85px;
 }
 
-#women .owl-nav .owl-next:before {
+#乐高 .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
   color: #2a2a2a;
@@ -1908,7 +1908,7 @@ Single Product Page
 
 /* 
 ---------------------------------------------
-About Us Page
+了解我们 Page
 --------------------------------------------- 
 */
 
