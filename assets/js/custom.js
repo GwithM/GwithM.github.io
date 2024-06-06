@@ -20,7 +20,7 @@
 		 }
 	})
 
-	$('.owl-乐高-item').owlCarousel({
+	$('.owl-居家活动-item').owlCarousel({
 		items:5,
 		loop:true,
 		dots: true,
